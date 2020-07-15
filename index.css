@@ -1,0 +1,25 @@
+button {
+    height: 4cm;
+    width: 4cm;
+    border-radius: 20cm;
+    animation: anim 2s ease-in-out 0s infinite forwards;
+}
+
+@keyframes anim {
+    0% {
+        background-color: black;
+        width: 4cm;
+        height: 4cm
+    }
+    40%,
+    60% {
+        background-color: red;
+        width: 25cm;
+        height: 25cm;
+    }
+    100% {
+        background-color: black;
+        width: 4cm;
+        height: 4cm;
+    }
+}
