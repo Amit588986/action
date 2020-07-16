@@ -14,8 +14,8 @@ button {
     40%,
     60% {
         background-color: red;
-        width: 20cm;
-        height: 20cm;
+        width: 10cm;
+        height: 10cm;
     }
     100% {
         background-color: black;
