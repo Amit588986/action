@@ -8,7 +8,7 @@ button {
 @keyframes anim {
     0% {
         background-color: black;
-        width: 4cm;
+        width: 0cm;
         height: 4cm
     }
     40%,
@@ -19,7 +19,7 @@ button {
     }
     100% {
         background-color: black;
-        width: 4cm;
+        width: 0cm;
         height: 4cm;
     }
 }
