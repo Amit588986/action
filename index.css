@@ -8,8 +8,8 @@ button {
 @keyframes anim {
     0% {
         background-color: rgb(8, 1, 7);
-        width: 0cm;
-        height: 4cm;
+        width: 1cm;
+        height: 1cm;
     }
     40%,
     60% {
@@ -19,7 +19,10 @@ button {
     }
     100% {
         background-color: black;
-        width: 0cm;
-        height: 4cm;
+        width: 1cm;
+        height: 1cm;
     }
+}
+html{
+  background-color:rgb(255, 91, 248);
 }
