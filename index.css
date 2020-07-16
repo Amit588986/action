@@ -7,15 +7,15 @@ button {
 
 @keyframes anim {
     0% {
-        background-color: black;
+        background-color: rgb(8, 1, 7);
         width: 0cm;
-        height: 4cm
+        height: 4cm;
     }
     40%,
     60% {
         background-color: red;
-        width: 25cm;
-        height: 25cm;
+        width: 10cm;
+        height: 10cm;
     }
     100% {
         background-color: black;
